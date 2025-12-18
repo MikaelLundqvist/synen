@@ -14,24 +14,20 @@ Jag vill rikta ett varmt tack till alla som delat sina erfarenheter och insikter
 Bankeryd, november 2025  
 *Mikael Lundqvist*
 
+\newpage
+
 ## Inledning
-Synen är vårt mest använda sinne och spelar en avgörande roll för hur vi uppfattar
-och interagerar med världen. Trots detta är synproblem en av de mest förbisedda
-folkhälsofrågorna. Globalt lever över 2,2 miljarder människor med någon form av
-synnedsättning, varav hälften hade kunnat förebyggas eller behandlas [1].
 
-I takt med att befolkningen åldras, digitaliseringen ökar och livsstilen förändras, blir
-synproblem allt vanligare. Det handlar inte bara om klassiska brytningsfel som kan
-korrigeras med glasögon, utan om sjukdomar som katarakt, glaukom och
-makuladegeneration, funktionella störningar som konvergensinsufficiens, samt
-neurologiska tillstånd som synfältsbortfall efter stroke. Dessa problem påverkar inte
-bara individens livskvalitet, utan också arbetsförmåga, samhällsekonomi och social
-inkludering.
+Synen är vårt mest använda sinne och spelar en avgörande roll för hur vi uppfattar och interagerar med världen. Trots detta är synproblem en av de mest förbisedda folkhälsofrågorna. Globalt lever över 2,2 miljarder människor med någon form av synnedsättning, varav hälften hade kunnat förebyggas eller behandlas [1].
 
-Att förstå bredden av synproblem och deras konsekvenser är därför avgörande –
-både för vården, arbetslivet och för individen själv. Den här rapporten syftar till att ge
-en översikt över vanliga och ovanliga synproblem, deras prevalens, konsekvenser
-och hur olika professioner och lagar samverkar för att förebygga och hantera dem.
+I takt med att befolkningen åldras, digitaliseringen ökar och livsstilen förändras, blir synproblem allt vanligare. Det handlar inte bara om klassiska brytningsfel som kan korrigeras med glasögon, utan om sjukdomar som katarakt, glaukom och makuladegeneration, funktionella störningar som konvergensinsufficiens, samt neurologiska tillstånd som synfältsbortfall efter stroke. Dessa problem påverkar inte bara individens livskvalitet, utan också arbetsförmåga, samhällsekonomi och social inkludering.
+
+Att förstå bredden av synproblem och deras konsekvenser är därför avgörande – både för vården, arbetslivet och för individen själv. Den här rapporten syftar till att ge en översikt över vanliga och ovanliga synproblem, deras prevalens, konsekvenser och hur olika professioner och lagar samverkar för att förebygga och hantera dem.
+
+## Referenser
+1. World Health Organization. World report on vision. Geneva: WHO; 2019.
+
+\newpage
 
 ## Arbete och samarbete via GitHub
 
@@ -45,5 +41,5 @@ GitHub fungerar här som ett nav för:
 
 På detta sätt blir boken inte bara en text, utan en levande resurs som kan växa och förbättras över tid. Den öppna strukturen gör det möjligt att förena vetenskaplig kunskap, personliga berättelser och praktiska verktyg – och därigenom skapa en gemensam kunskapsbas för alla som berörs av dolda funktionshinder.
 
-## Referenser
-1. World Health Organization. World report on vision. Geneva: WHO; 2019.
+\newpage
+
